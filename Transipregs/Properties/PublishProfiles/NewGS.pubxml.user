@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Sej\Desktop\Newgs</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include=".gitignore">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="404.html">
+      <publishTime>08/25/2017 22:34:48</publishTime>
+    </File>
+    <File Include="about.html">
+      <publishTime>08/26/2017 22:06:13</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/Transipregs.dll">
+      <publishTime>08/26/2017 19:25:58</publishTime>
+    </File>
+    <File Include="blog-fullwidth.html">
+      <publishTime>08/25/2017 22:34:48</publishTime>
+    </File>
+    <File Include="blog-left-sidebar.html">
+      <publishTime>08/25/2017 22:34:48</publishTime>
+    </File>
+    <File Include="blog-right-sidebar.html">
+      <publishTime>08/25/2017 22:34:48</publishTime>
+    </File>
+    <File Include="contact.html">
+      <publishTime>08/26/2017 22:18:43</publishTime>
+    </File>
+    <File Include="css/animate.css">
+      <publishTime>08/25/2017 22:34:45</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>08/26/2017 21:58:38</publishTime>
+    </File>
+    <File Include="css/ionicons.min.css">
+      <publishTime>08/25/2017 22:34:45</publishTime>
+    </File>
+    <File Include="css/jquery.fancybox.css">
+      <publishTime>08/25/2017 22:34:45</publishTime>
+    </File>
+    <File Include="css/main.css">
+      <publishTime>08/26/2017 18:27:57</publishTime>
+    </File>
+    <File Include="css/owl.carousel.css">
+      <publishTime>08/25/2017 22:34:45</publishTime>
+    </File>
+    <File Include="css/owl.theme.css">
+      <publishTime>08/25/2017 22:34:45</publishTime>
+    </File>
+    <File Include="css/responsive.css">
+      <publishTime>08/25/2017 22:34:45</publishTime>
+    </File>
+    <File Include="css/slider.css">
+      <publishTime>08/25/2017 22:34:45</publishTime>
+    </File>
+    <File Include="email.html">
+      <publishTime>08/26/2017 01:51:45</publishTime>
+    </File>
+    <File Include="fonts/ionicons.eot">
+      <publishTime>08/25/2017 22:34:45</publishTime>
+    </File>
+    <File Include="fonts/ionicons.svg">
+      <publishTime>08/25/2017 22:34:45</publishTime>
+    </File>
+    <File Include="fonts/ionicons.ttf">
+      <publishTime>08/25/2017 22:34:45</publishTime>
+    </File>
+    <File Include="fonts/ionicons.woff">
+      <publishTime>08/25/2017 22:34:45</publishTime>
+    </File>
+    <File Include="gallery.html">
+      <publishTime>08/25/2017 22:34:48</publishTime>
+    </File>
+    <File Include="images/about/about-company.jpg">
+      <publishTime>08/25/2017 22:34:46</publishTime>
+    </File>
+    <File Include="images/about/about.jpg">
+      <publishTime>08/25/2017 22:34:46</publishTime>
+    </File>
+    <File Include="images/author/about.jpg">
+      <publishTime>08/25/2017 22:34:46</publishTime>
+    </File>
+    <File Include="images/author/author-bg.jpg">
+      <publishTime>08/25/2017 22:34:46</publishTime>
+    </File>
+    <File Include="images/author/author.jpg">
+      <publishTime>08/25/2017 22:34:46</publishTime>
+    </File>
+    <File Include="images/avater-1.jpg">
+      <publishTime>08/25/2017 22:34:46</publishTime>
+    </File>
+    <File Include="images/avater-2.jpg">
+      <publishTime>08/25/2017 22:34:46</publishTime>
+    </File>
+    <File Include="images/avater.jpg">
+      <publishTime>08/25/2017 22:34:46</publishTime>
+    </File>
+    <File Include="images/blog/post-1.jpg">
+      <publishTime>08/25/2017 22:34:46</publishTime>
+    </File>
+    <File Include="images/blog/post-2.jpg">
+      <publishTime>08/25/2017 22:34:46</publishTime>
+    </File>
+    <File Include="images/blog/post-3.jpg">
+      <publishTime>08/25/2017 22:34:46</publishTime>
+    </File>
+    <File Include="images/clients/logo-1.jpg">
+      <publishTime>08/25/2017 22:34:46</publishTime>
+    </File>
+    <File Include="images/clients/logo-2.jpg">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="images/clients/logo-3.jpg">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="images/clients/logo-4.jpg">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="images/clients/logo-5.jpg">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="images/icons/close.png">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="images/icons/i_next.png">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="images/icons/i_prev.png">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="images/icons/left.png">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="images/icons/map-marker.png">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="images/icons/next.png">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="images/icons/prev.png">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="images/icons/quotes.png">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="images/icons/right.png">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="images/logo.png">
+      <publishTime>08/24/2017 23:41:52</publishTime>
+    </File>
+    <File Include="images/portfolio/as.PNG">
+      <publishTime>08/26/2017 16:22:57</publishTime>
+    </File>
+    <File Include="images/portfolio/HRMS.jpg">
+      <publishTime>08/26/2017 17:36:44</publishTime>
+    </File>
+    <File Include="images/portfolio/IM.jpg">
+      <publishTime>08/26/2017 17:36:44</publishTime>
+    </File>
+    <File Include="images/portfolio/item-1.png">
+      <publishTime>08/24/2017 23:41:52</publishTime>
+    </File>
+    <File Include="images/portfolio/item-2.png">
+      <publishTime>08/24/2017 23:41:52</publishTime>
+    </File>
+    <File Include="images/portfolio/item-3.jpg">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="images/portfolio/item-4.png">
+      <publishTime>08/24/2017 23:41:52</publishTime>
+    </File>
+    <File Include="images/portfolio/item-5.jpg">
+      <publishTime>08/24/2017 23:41:52</publishTime>
+    </File>
+    <File Include="images/portfolio/item-6.jpg">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="images/portfolio/partyvibes.PNG">
+      <publishTime>08/26/2017 16:22:55</publishTime>
+    </File>
+    <File Include="images/portfolio/pgs.PNG">
+      <publishTime>08/26/2017 16:23:32</publishTime>
+    </File>
+    <File Include="images/portfolio/TMS.png">
+      <publishTime>08/26/2017 17:36:44</publishTime>
+    </File>
+    <File Include="images/slider.jpg">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="images/team.jpg">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="images/team/team-1.jpg">
+      <publishTime>08/24/2017 23:41:52</publishTime>
+    </File>
+    <File Include="images/team/team-2.jpg">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="images/team/team-3.jpg">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="images/team/team-4.jpg">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>08/26/2017 22:02:50</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="js/jquery.fancybox.js">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="js/jquery.min.js">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="js/main.js">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="js/owl.carousel.min.js">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="js/slider.js">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="js/vendor/modernizr-2.6.2.min.js">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="js/wow.min.js">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="less/main.less">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="less/responsive.less">
+      <publishTime>08/25/2017 22:34:47</publishTime>
+    </File>
+    <File Include="License.txt">
+      <publishTime>08/25/2017 22:34:44</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/25/2017 22:33:16</publishTime>
+    </File>
+    <File Include="Portfolio.html">
+      <publishTime>08/26/2017 22:04:18</publishTime>
+    </File>
+    <File Include="SendEmail.aspx">
+      <publishTime>08/26/2017 01:52:42</publishTime>
+    </File>
+    <File Include="service.html">
+      <publishTime>08/26/2017 22:25:43</publishTime>
+    </File>
+    <File Include="single-portfolio.html">
+      <publishTime>08/25/2017 22:34:44</publishTime>
+    </File>
+    <File Include="single-post.html">
+      <publishTime>08/25/2017 22:34:44</publishTime>
+    </File>
+    <File Include="Team.html">
+      <publishTime>08/26/2017 22:04:29</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/26/2017 17:15:42</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
