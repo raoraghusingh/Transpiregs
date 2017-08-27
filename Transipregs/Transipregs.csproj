@@ -66,6 +66,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Admincar.html" />
+    <Content Include="Career.html" />
+    <Content Include="CareerTemplate.html" />
     <Content Include="images\portfolio\as.PNG" />
     <Content Include="images\portfolio\HRMS.jpg" />
     <Content Include="images\portfolio\IM.jpg" />
@@ -81,6 +84,7 @@
     <Content Include="fonts\ionicons.woff" />
     <Content Include="less\main.less" />
     <Content Include="less\responsive.less" />
+    <Content Include="FileUploadHandler.ashx" />
     <None Include="Properties\PublishProfiles\NewGS.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -163,6 +167,9 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FileUploadHandler.ashx.cs">
+      <DependentUpon>FileUploadHandler.ashx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SendEmail.aspx.cs">
       <DependentUpon>SendEmail.aspx</DependentUpon>
@@ -172,7 +179,9 @@
       <DependentUpon>SendEmail.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Resume\" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
