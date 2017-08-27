@@ -30,7 +30,7 @@ Primary style
 
 xslide 
 
--------------------------------- */
+/*-------------------------------- */
 .cd-headline.slide span {
   display: inline-block;
   padding: .2em 0;
@@ -39,6 +39,7 @@ xslide
   overflow: hidden;
   vertical-align: top;
   width: auto!important;
+  font-size:18px;
 }
 .cd-headline.slide b {
   opacity: 0;
